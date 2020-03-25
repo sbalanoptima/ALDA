@@ -1,4 +1,4 @@
-# ALDA
+# Automated Learning and Data Analysis
 Project code for demand and travel times prediction submitted for Automated Learning and Data Analysis course from NC State University
 
 This code and data is from 10th AIMMS MOFTA annual conference held at Lehigh University
